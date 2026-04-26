@@ -146,12 +146,6 @@
 
 ## 10. Преемственность
 
-- План МТЛА 2025: раздел 4.8 (Медийное обеспечение)
-- План МТЛФ 2025: раздел 11 (Медиамаркетинг)
-- План МТЛФ 2026: план MTLM
-
-## 11. Связанные документы
-
-- https://github.com/Montelibero/MTLA-Documents/blob/main/Internal/Plans/2025/Plan2025.ru.md
-- https://montelibero.org/2025/03/26/mtl_fund_plan_2025/
-- https://montelibero.org/2026/03/21/mtl_fund_plan_2026/
+- [План МТЛА 2025: раздел 4.8 (Медийное обеспечение)](https://github.com/Montelibero/MTLA-Documents/blob/main/Internal/Plans/2025/Plan2025.ru.md)
+- [План МТЛФ 2025: раздел 11 (Медиамаркетинг)](https://montelibero.org/2025/03/26/mtl_fund_plan_2025/)
+- [План МТЛФ 2026: план MTLM](https://montelibero.org/2026/03/21/mtl_fund_plan_2026/)
